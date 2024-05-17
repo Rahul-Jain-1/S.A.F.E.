@@ -7,8 +7,9 @@ Discover how SAFE seamlessly integrates into users' smartphones, providing a vig
 
 Administrators and cyber authorities gain access to a powerful web dashboard, delivering real-time insights and analytics derived from the app's data collection. This invaluable resource empowers security professionals to take immediate, targeted action, safeguarding communities from digital threats effectively.
 
-Check out our video presentation for more details: [YouTube Video](https://youtu.be/n8IE92nMU3U)
-Visit our website for more information: [SAFE Website](https://safeapp.site/)
+Check out our video presentation for more details: [YouTube Video](https://youtu.be/n8IE92nMU3U) .
+
+Visit our website for more information: [SAFE Website](https://safeapp.site/)  .
 
 ## How to Run the Code
 
