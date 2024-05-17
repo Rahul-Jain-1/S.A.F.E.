@@ -8,6 +8,7 @@ Discover how SAFE seamlessly integrates into users' smartphones, providing a vig
 Administrators and cyber authorities gain access to a powerful web dashboard, delivering real-time insights and analytics derived from the app's data collection. This invaluable resource empowers security professionals to take immediate, targeted action, safeguarding communities from digital threats effectively.
 
 Check out our video presentation for more details: [YouTube Video](https://youtu.be/n8IE92nMU3U)
+Visit our website for more information: [SAFE Website](https://safeapp.site/)
 
 ## How to Run the Code
 
@@ -25,11 +26,15 @@ Check out our video presentation for more details: [YouTube Video](https://youtu
 
 
 ### Starting backend, write in a new parallel terminal
-   </br> a. pip install requirements.txt
-   </br> b. cd backend
-   </br> c. python app.py
-
-   ![WhatsApp Image 2024-02-25 at 23 23 22_488da836](https://github.com/Y-a-s-h-M-i-t-t-a-l/SafeApp/assets/104529934/c455bead-226c-4683-af66-7d2749dece7d)
+1. Open a new terminal.
+2. Run the following commands:
+   ```sh
+  
+   pip install requirements.txt
+   cd backend
+   python app.py
+   
+ ![WhatsApp Image 2024-02-25 at 23 23 22_488da836](https://github.com/Y-a-s-h-M-i-t-t-a-l/SafeApp/assets/104529934/c455bead-226c-4683-af66-7d2749dece7d)
 
 ## To download the Safe App
 
